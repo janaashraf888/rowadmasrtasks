@@ -1,0 +1,15 @@
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.exe
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.deps.json
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.runtimeconfig.json
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.runtimeconfig.dev.json
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.dll
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\bin\Debug\net5.0\assignmentRowad.pdb
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.GeneratedMSBuildEditorConfig.editorconfig
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.AssemblyInfoInputs.cache
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.AssemblyInfo.cs
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.csproj.CoreCompileInputs.cache
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.dll
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\refint\assignmentRowad.dll
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.pdb
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\assignmentRowad.genruntimeconfig.cache
+C:\assignmentRowad\assignmentRowadSolution\assignmentRowad\obj\Debug\net5.0\ref\assignmentRowad.dll
