@@ -1,0 +1,15 @@
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.exe
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.deps.json
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.runtimeconfig.json
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.runtimeconfig.dev.json
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.dll
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\bin\Debug\net5.0\miniProject.pdb
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.AssemblyInfoInputs.cache
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.AssemblyInfo.cs
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.csproj.CoreCompileInputs.cache
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.dll
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\refint\miniProject.dll
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.pdb
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\miniProject.genruntimeconfig.cache
+C:\Users\janaa\Downloads\mini project\miniProjectSolution\miniProject\obj\Debug\net5.0\ref\miniProject.dll
