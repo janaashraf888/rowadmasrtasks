@@ -1,0 +1,18 @@
+﻿@model UniversitySystem.ViewModels.DepartmentStudentsVM
+
+<h2>Department Information</h2>
+
+<p>Department Name: @Model.DepartmentName</p>
+
+<p>Department State: @Model.DepartmentState</p>
+
+<label>طلاب أكبر من 25 سنة:</label>
+
+<select>
+
+    @foreach (var name in Model.StudentNames)
+    {
+        <option>@name</option>
+    }
+
+</select>
